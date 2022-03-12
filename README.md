@@ -2,7 +2,8 @@
 **Simple démonstration**
 
 > **On a deux acteurs :**
-> **Client **
+> 
+> **Client** 
 > En premier lieu, l’utilisateur peut faire l’inscription en entrant son nom et son mot de passe. Une fois il a fait l’inscription il sera un client dans ce restaurant et aura un compte.
 
 ![image](https://user-images.githubusercontent.com/61824570/158028914-38abdb23-39a6-4fac-94dc-b668b20a05df.png)
