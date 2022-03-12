@@ -3,7 +3,8 @@
 
 > **On a deux acteurs :**
 > 
-> **Client** 
+> **Client :** 
+> 
 > En premier lieu, l’utilisateur peut faire l’inscription en entrant son nom et son mot de passe. Une fois il a fait l’inscription il sera un client dans ce restaurant et aura un compte.
 
 ![image](https://user-images.githubusercontent.com/61824570/158028914-38abdb23-39a6-4fac-94dc-b668b20a05df.png)
@@ -26,6 +27,7 @@
 ![image](https://user-images.githubusercontent.com/61824570/158029068-35af05d0-bb8d-4f51-b452-16789cb90881.png)
 
 > **Admin:**
+> 
 > L’admin admet un username propre: “admin” et un mot de passe prédéfinie “admin123” dans notre code.
 
 ![image](https://user-images.githubusercontent.com/61824570/158029103-b8178c86-a8bb-4519-9211-3f780455c5de.png)
